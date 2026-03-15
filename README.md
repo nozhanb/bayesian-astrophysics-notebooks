@@ -2,7 +2,7 @@
 
 A collection of Jupyter notebooks exploring Bayesian statistical methods and their application to astrophysical data analysis. Topics range from implementing MCMC from scratch to spectral analysis of quasars and photoionization modelling with CLOUDY.
 
-These notebooks reflect hands-on engagement with the statistical and computational foundations underlying my ongoing research on X-ray variability modelling in AGNs ([agn-sbi](https://github.com/nozhanb/agn-sbi)).
+These notebooks reflect hands-on engagement with the statistical and computational foundations underlying my ongoing research on X-ray variability modelling in AGNs ([agn-state-space](https://github.com/nozhanb/agn-state-space)).
 
 ---
 
@@ -58,4 +58,4 @@ CLOUDY C22 must be installed separately to regenerate the photoionization model 
 ## Author
 
 Nozhan Balafkan — [nozhanbalafkan.com](https://nozhanbalafkan.com)
-Related research: [github.com/nozhanb/agn-sbi](https://github.com/nozhanb/agn-sbi)
+Related research: [github.com/nozhanb/agn-state-space](https://github.com/nozhanb/agn-state-space)
